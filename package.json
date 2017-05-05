@@ -1,0 +1,19 @@
+{
+  "name": "stash-invest-speakeasy",
+  "version": "1.0.0",
+  "description": "Stash Invest's Speech API Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samstash/stash-invest-speakeasy.git"
+  },
+  "author": "Stash Invest",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/samstash/stash-invest-speakeasy/issues"
+  },
+  "homepage": "https://github.com/samstash/stash-invest-speakeasy#readme"
+}
